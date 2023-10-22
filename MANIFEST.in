@@ -1,0 +1,3 @@
+include requirements.txt
+include install.bat
+include start.bat

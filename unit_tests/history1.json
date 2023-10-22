@@ -1,0 +1,28 @@
+{
+                "id": "21654908",
+                "author": {
+                    "self": "https://issues.apache.org/jira/rest/api/2/user?username=masood31",
+                    "name": "masood31",
+                    "key": "JIRAUSER281863",
+                    "avatarUrls": {
+                        "48x48": "https://issues.apache.org/jira/secure/useravatar?avatarId=10452",
+                        "24x24": "https://issues.apache.org/jira/secure/useravatar?size=small&avatarId=10452",
+                        "16x16": "https://issues.apache.org/jira/secure/useravatar?size=xsmall&avatarId=10452",
+                        "32x32": "https://issues.apache.org/jira/secure/useravatar?size=medium&avatarId=10452"
+                    },
+                    "displayName": "masood",
+                    "active": true,
+                    "timeZone": "Etc/UTC"
+                },
+                "created": "2023-10-20T10:29:48.563+0000",
+                "items": [
+                    {
+                        "field": "status",
+                        "fieldtype": "jira",
+                        "from": "5",
+                        "fromString": "Resolved",
+                        "to": "6",
+                        "toString": "Closed"
+                    }
+                ]
+            }
